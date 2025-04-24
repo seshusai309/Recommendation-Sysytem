@@ -260,7 +260,10 @@ if st.sidebar.button("Find Similar Books"):
 st.markdown("""
 <hr style="margin: 2rem 0; border: 0.5px solid #eee;">
 <div style="text-align: center; color: #777; font-size: 0.9rem;">
-    <p>BookVoyage Recommender System • Portfolio Project</p>
+    <p>BookVoyage Recommender System • Built By Seshu</p>
     <p>Built with Streamlit and collaborative filtering</p>
+    <a href="https://github.com/seshusai309/Recommendation-Sysytem" target="_blank" style="display: inline-block; margin-top: 10px; padding: 8px 18px; background-color: #24292f; color: #fff; border-radius: 5px; text-decoration: none; font-weight: 500; font-size: 0.95rem;">
+        ⭐ View on GitHub
+    </a>
 </div>
 """, unsafe_allow_html=True)
